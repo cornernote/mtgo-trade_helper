@@ -1,0 +1,86 @@
+﻿NAME|ALT1|ALT2|ALT3|ETC
+MMA|Modern Masters
+BNG|Born of the Gods
+THS|Theros
+RTR|Return to Ravnica|Return to Raynica|Return 1.13 Ravnica|Return 13: Ravnica|Ret.Jrn tn Ravnica
+M14|Magic 2014
+M13|Magic 2013
+M12|Magic 2012
+M11|Magic 2011
+M10|Magic 2010
+PC1|Planechase
+PRM|Promotional
+ZEN|Zendikar
+AVR|Avacyn Restored|Avacyn Restaored|Ayacyn Restored|Avacvn Restored
+DKA|Dark Ascension
+ISD|Innistrad|Innist'ad
+GTC|Gatecrash|Gatnecrash|Ganecrash
+DPA|Planeswalker
+VAN|Vanguard
+7E|Seventh Edition
+SOM|Scars of Mirrodin|Stars of Mirrodin
+TD2|Mirrodin Pure vs New Phyrexia
+NPH|New Phyrexia
+MBS|Mirrodin Besieged
+DDJ|Izzet vs Golgari
+PC2|Planechase (2012 Edition)
+DDH|Ajani vs Nicol Bolas
+DDI|Venser vs Koth
+PR|Prophecy|Prophecv
+NE|Nemesis
+MM|Mercadian Masques
+DDG|Knights vs Dragons
+UD|Urza's Destiny
+VI|Visions
+DDF|Elspeth vs Tezzeret
+UL|Urza's Legacy
+DDE|Phyrexia vs The Coalition
+DDD|Garruk vs Liliana
+EX|Exodus
+TD0|Theme Deck Set
+DDC|Divine vs Demonic
+TE|Tempest
+DD2|Jace vs Chandra
+ST|Stronghold
+UZ|Urza's Saga
+7E|Seventh Edition
+8ED|Eighth Edition
+9ED|Ninth Edition
+10E|Tenth Edition
+EVG|Elves vs Goblins
+MI|Mirage
+WL|Weatherlight
+IN|Invasion
+PS|Planeshift
+AP|Apocalypse
+OD|Odyssey
+VAN|Vanguard
+ARB|Alara Reborn
+CON|Conflux|Conﬂux
+ALA|Shards of Alara
+RAV|Ravnica: City of Guilds|Raynica: City of Guilds
+TSP|Time Spiral
+MRD|Mirrodin
+WWK|Worldwake
+H09|Slivers|Sliver:
+CMD|Commander
+ROE|Rise of the Eldrazi
+BOK|Betrayers of Kamigawa
+CHK|Champions of Kamigawa
+5DN|Fifth Dawn
+GPT|Guildpact
+SOK|Saviors of Kamigawa
+DKS|Darksteel
+PD2|Fire & Lightning|Fire 8 Lightning
+ME2|Masters Edition II|Masters Edition 11
+SGC|Scourge
+LGN|Legions
+ONS|Onslaught
+ME4|Masters Edition IV
+ME3|Masters Edition III||Masters Edition 111
+SHM|Shadowmoor|Shadovvmoor
+LWR|Lorwyn
+DGM|Dragon's Maze|Dragon’: Maze
+JUD|Judgment
+FUT|Future Sight
+MMA|Modern Masters
