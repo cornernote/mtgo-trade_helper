@@ -2,9 +2,9 @@
 
 Copyright (c) 2013 - Brett O'Donnell <cornernote@gmail.com>
 
-Home Page: https://sites.google.com/site/cornernote/mtgo/trade-helper
-Download: https://github.com/cornernote/mtgo-trade_helper/archive/master.zip
 Source Code: https://github.com/cornernote/mtgo-trade_helper
+
+Latest Release: http://cornernote.github.io/mtgo-trade_helper/release/wikiprice-0.1.2.zip
 
 
 ## LICENSE
